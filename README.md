@@ -2,6 +2,7 @@
 Here are my plugin modifications that could not be merged to OBS Studio, because they could not be merged or because they have nothing to do in official releases of OBS Studio.
 
 [Link to OBS Studio's official repository](https://github.com/jp9000/obs-studio/)
+
 **Disclaimer:** Neither me or [jp9000](https://github.com/jp9000) have bad intentions. I may look like I am in a conflict with him, but the only problem is that my feelings are harsh to my mind. Posting new features to a program is not always acceptable, I think I can live with that. I am still okay to fix problems on the official repository.
 
 As this is my repository, here are some guidelines:
