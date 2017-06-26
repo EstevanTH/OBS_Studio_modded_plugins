@@ -11,6 +11,7 @@ My release of the module `vlc-video` features:
 - **VLC deinterlace**: ability to select the VLC deinterlace method
 - **Media options**: possibility to prepend the path / URL / MRL with media options; `"` quotes can be used around the path or in options, and can be escaped `\"`.
 
+## Additional information
 As this is my repository, here are some guidelines:
 - I do not accept other's pull requests.
 - I only compile on Windows.
