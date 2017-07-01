@@ -8,8 +8,8 @@ Here are my plugin modifications that could not be merged to OBS Studio, because
 ## Contents
 ### vlc-video
 My release of the module `vlc-video` features:
-- **VLC deinterlace**: ability to select the VLC deinterlace method
-- **Media options**: possibility to prepend the path / URL / MRL with media options; `"` quotes can be used around the path or in options, and can be escaped `\"`.
+- **VLC deinterlace**: ability to select the VLC deinterlace method.
+- **Media options**: possibility to append media options to the path / URL / MRL. You can put `"` quotes to force the parser to understand that something is one-piece (quotes removed after parsing), and they can be escaped `\"` if you really need such quotes in arguments.
 
 ## Additional information
 As this is my repository, here are some guidelines:
